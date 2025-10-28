@@ -14,6 +14,7 @@ Use data and user feedback to improve product decisions.
 Explore creative ways to simplify user experiences and drive growth.
 
 Featured Projects
+
 OgaLandlord
 
 A property co-ownership platform that allows users to invest in real estate without purchasing entire properties.
@@ -40,4 +41,5 @@ Agile and Lean product management
 Contact
 
 LinkedIn:https://www.linkedin.com/in/blessing-paulinus
+
 Email: blessingpaulinus291@gmail.com 
