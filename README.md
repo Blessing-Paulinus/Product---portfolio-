@@ -1,38 +1,43 @@
-Hi, I'm Blessing 👋
+Hi, I’m Blessing 👋
 
-I’m a Product Manager passionate about building digital products that solve real problems. I focus on turning ideas into simple, valuable, and scalable experiences through research, user empathy, and collaboration.
+I’m a Product Manager passionate about building digital products that solve real problems.
+I focus on turning ideas into simple, valuable, and scalable experiences through research, user empathy, and collaboration.
 
-💡 What I Do
+What I Do
 
-Write PRDs and user stories that align business goals with user needs
+Write clear Product Requirement Documents (PRDs) and user stories aligned with business goals.
 
-Collaborate with designers and developers to bring ideas to life
+Collaborate with designers, developers, and stakeholders to bring ideas to life.
 
-Use feedback and data to improve product decisions
+Use data and user feedback to improve product decisions.
 
-Explore creative ways to simplify user experiences
+Explore creative ways to simplify user experiences and drive growth.
 
-🚀 Projects
+Featured Projects
+OgaLandlord
 
-NEXIPAY – A multi-currency and crypto conversion platform
+A property co-ownership platform that allows users to invest in real estate without purchasing entire properties.
+Role: Product Strategy, PRD Development, User Story Documentation.
 
-TrackGov – A civic tech platform for tracking government performance
+TrackGov
 
-SkillUp Africa – An EdTech platform for practical, job-ready skills
+A civic-tech platform that enables citizens to track and evaluate local government representatives’ performance.
+Role: Research, Product Definition, MVP Scoping.
 
-🌱 Currently Learning
+MyBloc
+
+A curated hangout planning platform that helps users plan or join social experiences effortlessly.
+Role: Discovery, UX Flow, Product Documentation.
+
+Currently Learning
 
 Data-driven decision making
 
 UX design thinking
 
-Agile product management
+Agile and Lean product management
 
-📫 Connect With Me
+Contact
 
-LinkedIn https://www.linkedin.com/in/blessing-paulinus
-
-Email blessingpaulinus291@gmail.com
-
-Product---portfolio-
-A collection of my Product Management work — PRDs, research, user stories, and case studies.
+LinkedIn:https://www.linkedin.com/in/blessing-paulinus
+Email: blessingpaulinus291@gmail.com 
