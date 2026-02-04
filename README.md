@@ -1,29 +1,41 @@
 # 👋 Hi, I’m Blessing Paulinus  
 
-🎯 **Aspiring Product Manager | Tech Enthusiast | UX Thinker**  
+🎯Product Associate | Digital Products | UX-Driven
 
-I’m passionate about building digital products that make life simpler, smarter, and more meaningful.  
-Right now, I’m growing in **product management**, learning to connect user needs, design thinking, and business strategy to create real impact.  
 
----
-
-## 🧩 What I Do
-- ✨ Turn user pain points into clear, actionable product requirements  
-- 🧭 Map user journeys and design intuitive product flows  
-- 🧠 Collaborate across design, engineering, and business teams  
-- 📈 Explore creative strategies for growth and user retention  
+I support the delivery of digital products by translating user needs into clear product requirements and collaborating with cross-functional teams to improve user experience.
 
 ---
 
-## 🧰 Tools I Use
-Figma · Miro · Notion · Slack · Trello · Google Workspace  
+##🧩 What I Do
+
+Translate user and business needs into clear, actionable product requirements
+
+Document and map user journeys to support intuitive product flows
+
+Collaborate with design, engineering, and business teams to support product delivery
+
+Contribute to product improvements through structured analysis and feedback
 
 ---
 
-## 🌱 Current Focus
-- Deepening my understanding of Product Management  
-- Completing my **Axia Africa Product Management training**  
-- Expanding my portfolio through real-world product challenges  
+## 🧰 Tools
+
+Product & Design: Figma, Miro
+
+Collaboration & Documentation: Notion, Slack, Google Workspace
+
+Planning & Tracking: Trello
+
+---
+
+##🌱 Current Focus
+
+Supporting the delivery of digital products through clear product documentation
+
+Applying structured product thinking to real-world product challenges
+
+Building a portfolio of well-documented product work 
 
 ---
 
